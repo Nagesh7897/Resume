@@ -1,0 +1,54 @@
+#profile {
+  border-radius: 40%;
+  width: 85%;
+  height: 60%;
+}
+
+#name {
+  color: rgb(11, 11, 14);
+  text-decoration: solid;
+}
+
+#mail {
+  color: blue;
+}
+
+#leftblock {
+  background-color: rgba(94, 93, 93, 0.26);
+  border-style: groove;
+}
+
+.nav-item {
+  align-content: space-between;
+}
+
+#bgimage {
+  position: absolute;
+  left: 150px;
+  top: 100px;
+  z-index: -1;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  opacity: 50%;
+}
+
+hr {
+  border-width: 1px;
+  border-color: rgba(94, 93, 93, 0.26);
+}
+
+abc {
+  z-index: 2;
+  position: fixed;
+  left: 10px;
+}
+
+#time {
+  font-size: medium;
+  color: blanchedalmond;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.navbar1{
+  background-color: rgb(79, 51, 105);
+}
